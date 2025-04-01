@@ -143,3 +143,44 @@ fixed_menu
   left: 50%;
   transform: translateX(-50%);
 }
+
+
+
+
+/* -----------------------------------------------------------------------------------------------------------------------
+thanks
+-------------------------------------------------------------*/
+.thanks{
+  text-align: center;
+  padding: 50px 0;
+}
+.thanks h2{
+  font-size: 36px;
+  color: #DC976C;
+  margin-bottom: 20px;
+}
+.fs1{
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.fs2{
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.thanks a{
+  color: #fdfdfd;
+  background-color: #DC976C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  border-radius: 16px;
+  width: 80%;
+  margin: 0 auto;
+}
+.thanks a img{
+  width: 20px;
+  transform: rotate(180deg);
+  margin-right: 20px;
+}
