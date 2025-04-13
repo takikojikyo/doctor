@@ -111,7 +111,7 @@ color: #579F1D;
 }
 .cv_btn::after{
   content: "";
-  background-image: url(../img/arrow.png);
+  background-image: url("img/arrow.png");
   width: 20px;
   height: 20px;
   display: inline-block;
@@ -223,7 +223,7 @@ align-items: center;
 }
 .header_link_2 a::before{
   content: "";
-  background-image: url("../img/book1.png");
+  background-image: url("img/book1.png");
   width: 110px;
   height: 78px;
   background-size: contain;
@@ -235,7 +235,7 @@ transform: translateY(-50%);
 }
 .header_link_2 a::after{
   content: "";
-  background-image: url(../img/arrow.png);
+  background-image: url("img/arrow.png");
   width: 20px;
   height: 20px;
   display: inline-block;
@@ -501,7 +501,7 @@ cv1
 green_back
 -------------------------------------------------------------*/
 .green_back{
-  background-image: url("../img/back2.png");
+  background-image: url("img/back2.webp");
   background-size: cover;
   position: relative;
   padding: 40px 0;
@@ -1003,7 +1003,7 @@ thanksページ
 }
 .thanks a::after{
   content: "";
-  background-image: url(../img/arrow.png);
+  background-image: url("img/arrow.png");
   width: 20px;
   height: 20px;
   display: inline-block;
